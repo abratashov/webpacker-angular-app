@@ -8,13 +8,19 @@
     "@angular/platform-browser": "^6.1.9",
     "@angular/platform-browser-dynamic": "^6.1.9",
     "@rails/webpacker": "3.5",
+    "@types/node": "^10.11.4",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "classlist.js": "1.1.20150312",
     "core-js": "^2.5.7",
+    "raw-loader": "^0.5.1",
     "rxjs": "^6.3.3",
     "ts-loader": "3.5.0",
     "typescript": "^3.1.1",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
+    "html-loader": "^0.5.5",
     "webpack-dev-server": "2.11.2"
   }
 }
